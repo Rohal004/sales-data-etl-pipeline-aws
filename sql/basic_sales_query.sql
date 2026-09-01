@@ -1,1 +1,4 @@
 
+SELECT *
+FROM parquet
+LIMIT 10;
