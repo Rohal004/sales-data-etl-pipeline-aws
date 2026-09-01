@@ -1,0 +1,6 @@
+OrderID,CustomerID,Product,Category,Quantity,UnitPrice,OrderDate,Country
+13001,C131,Laptop,Electronics,1,1200.00,2026-08-18,Pakistan
+13002,C132,Mouse,Electronics,0,30.00,2026-08-18,Pakistan
+13003,C133,Keyboard,Electronics,-2,50.00,2026-08-18,Pakistan
+13004,C134,Monitor,Electronics,abc,300.00,2026-08-18,Pakistan
+13005,C135,Headphones,Electronics,3,75.50,2026-08-18,Pakistan
